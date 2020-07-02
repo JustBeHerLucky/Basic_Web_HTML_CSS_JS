@@ -1,0 +1,239 @@
+@media (min-width: 768px) {
+	#SECTION_POPUP {
+		height: 0px;
+	}
+	#SECTION2 {
+		height: 875px;
+	}
+	#SECTION2>.ladi-section-background {
+		background-size: cover;
+		background-attachment: scroll;
+		background-origin: content-box;
+		background-image: url("https://w.ladicdn.com/s1440x875/5ef5a72d784004151c98c304/tomorrowland2015-20200629210854.jpg");
+		background-position: center top;
+		background-repeat: no-repeat;
+	}
+	#SECTION187 {
+		height: 0px;
+	}
+	#SECTION187>.ladi-section-background {
+		background-color: rgb(20, 20, 20);
+	}
+	#LINE305 {
+		width: 961px;
+		top: 43px;
+		left: 0px;
+	}
+	#LINE305>.ladi-line>.ladi-line-container {
+		border-top: 1px solid rgb(252, 9, 88);
+		border-right: 1px solid rgb(252, 9, 88);
+		border-bottom: 1px solid rgb(252, 9, 88);
+		border-left: 0px !important;
+	}
+	#LINE305>.ladi-line {
+		width: 100%;
+		padding: 8px 0px;
+	}
+	#POPUP377 {
+		width: 399px;
+		height: 178px;
+		top: 0px;
+		left: 0px;
+		bottom: 0px;
+		right: 0px;
+		margin: auto;
+	}
+	#POPUP377>.ladi-popup>.ladi-popup-background {
+		background-color: rgb(255, 255, 255);
+		opacity: 0.93;
+	}
+	#IMAGE378 {
+		width: 135px;
+		height: 178px;
+		top: 0px;
+		left: 0px;
+	}
+	#IMAGE378>.ladi-image>.ladi-image-background {
+		width: 247.5px;
+		height: 178px;
+		top: 0px;
+		left: -52px;
+		background-image: url("https://w.ladicdn.com/s550x500/5ef5a72d784004151c98c304/tomorrowland2015-20200629210854.jpg");
+	}
+	#HEADLINE380 {
+		width: 214px;
+		top: 67.75px;
+		left: 160.5px;
+	}
+	#HEADLINE380>.ladi-headline {
+		color: rgb(10, 103, 233);
+		font-size: 30px;
+		line-height: 1.2;
+	}
+	#HEADLINE381 {
+		width: 214px;
+		top: 38.25px;
+		left: 160.5px;
+	}
+	#HEADLINE381>.ladi-headline {
+		color: rgb(84, 84, 84);
+		font-size: 14px;
+		text-align: left;
+		line-height: 1.6;
+	}
+	#PARAGRAPH5 {
+		width: 771px;
+		top: -4px;
+		left: 0px;
+	}
+	#PARAGRAPH5>.ladi-paragraph {
+		font-family: "Montserrat", sans-serif;
+		color: rgb(255, 255, 255);
+		font-size: 64px;
+		font-weight: bold;
+		text-align: left;
+		line-height: 1;
+	}
+	#BOX385 {
+		width: 865px;
+		height: 455px;
+		top: 103.5px;
+		left: 45px;
+	}
+	#BOX385>.ladi-box {
+		background: #fdfbfb;
+		background: -webkit-linear-gradient(180deg, #fdfbfb, #eaedee);
+		background: linear-gradient(180deg, #fdfbfb, #eaedee);
+		opacity: 0.46;
+	}
+	#PARAGRAPH386 {
+		width: 865px;
+		top: 103.5px;
+		left: 45px;
+	}
+	#PARAGRAPH386>.ladi-paragraph {
+		color: rgb(0, 0, 0);
+		font-size: 22px;
+		line-height: 1.6;
+	}
+}
+
+@media (max-width: 767px) {
+	#SECTION_POPUP {
+		height: 0px;
+	}
+	#SECTION2 {
+		height: 1109.9px;
+	}
+	#SECTION2>.ladi-section-background {
+		background-size: cover;
+		background-attachment: scroll;
+		background-origin: content-box;
+		background-image: url("https://w.ladicdn.com/s768x1109/5ef5a72d784004151c98c304/tomorrowland2015-20200629210854.jpg");
+		background-position: center top;
+		background-repeat: no-repeat;
+	}
+	#SECTION187 {
+		height: 449.75px;
+	}
+	#SECTION187>.ladi-section-background {
+		background-color: rgb(20, 20, 20);
+	}
+	#LINE305 {
+		width: 355px;
+		top: 20px;
+		left: 32.5px;
+	}
+	#LINE305>.ladi-line>.ladi-line-container {
+		border-top: 1px solid rgb(252, 9, 88);
+		border-right: 1px solid rgb(252, 9, 88);
+		border-bottom: 1px solid rgb(252, 9, 88);
+		border-left: 0px !important;
+	}
+	#LINE305>.ladi-line {
+		width: 100%;
+		padding: 8px 0px;
+	}
+	#POPUP377 {
+		width: 400px;
+		height: 400px;
+		top: 0px;
+		left: 0px;
+		bottom: 0px;
+		right: 0px;
+		margin: auto;
+	}
+	#POPUP377>.ladi-popup>.ladi-popup-background {
+		background-color: rgb(255, 255, 255);
+		opacity: 0.93;
+	}
+	#IMAGE378 {
+		width: 135px;
+		height: 178px;
+		top: 0px;
+		left: 0px;
+	}
+	#IMAGE378>.ladi-image>.ladi-image-background {
+		width: 247.5px;
+		height: 178px;
+		top: 0px;
+		left: -52px;
+		background-image: url("https://w.ladicdn.com/s550x500/5ef5a72d784004151c98c304/tomorrowland2015-20200629210854.jpg");
+	}
+	#HEADLINE380 {
+		width: 214px;
+		top: 67.75px;
+		left: 160.5px;
+	}
+	#HEADLINE380>.ladi-headline {
+		color: rgb(10, 103, 233);
+		font-size: 30px;
+		line-height: 1.2;
+	}
+	#HEADLINE381 {
+		width: 214px;
+		top: 38.25px;
+		left: 160.5px;
+	}
+	#HEADLINE381>.ladi-headline {
+		color: rgb(84, 84, 84);
+		font-size: 14px;
+		text-align: left;
+		line-height: 1.6;
+	}
+	#PARAGRAPH5 {
+		width: 355px;
+		top: 1014.9px;
+		left: 10px;
+	}
+	#PARAGRAPH5>.ladi-paragraph {
+		font-family: "Montserrat", sans-serif;
+		color: rgb(255, 255, 255);
+		font-size: 40px;
+		font-weight: bold;
+		text-align: left;
+		line-height: 1;
+	}
+	#BOX385 {
+		width: 400px;
+		height: 956.995px;
+		top: 42.405px;
+		left: 10px;
+	}
+	#BOX385>.ladi-box {
+		background: #fdfbfb;
+		background: -webkit-linear-gradient(180deg, #fdfbfb, #eaedee);
+		background: linear-gradient(180deg, #fdfbfb, #eaedee);
+		opacity: 0.46;
+	}
+	#PARAGRAPH386 {
+		width: 400px;
+		top: 42.405px;
+		left: 10px;
+	}
+	#PARAGRAPH386>.ladi-paragraph {
+		color: rgb(0, 0, 0);
+		font-size: 22px;
+		line-height: 1.6;
+	}
+}

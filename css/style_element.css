@@ -1,0 +1,4783 @@
+@media (min-width: 768px) {
+  #SECTION_POPUP {
+    height: 0px;
+  }
+
+  #SECTION2 {
+    height: 770px;
+  }
+
+  #SECTION2 > .ladi-section-background {
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url("../img/Tomorrowland2015.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+
+  #SECTION6 {
+    height: 385.406px;
+  }
+
+  #SECTION6 > .ladi-section-background {
+    background-color: rgb(18, 18, 18);
+  }
+
+  #SECTION17 {
+    height: 968px;
+  }
+
+  #SECTION17 > .ladi-section-background {
+    background-color: rgb(23, 23, 23);
+  }
+
+  #SECTION91 {
+    height: 1156px;
+  }
+
+  #SECTION91 > .ladi-section-background {
+    background-color: rgb(18, 18, 18);
+  }
+
+  #SECTION187 {
+    height: 0px;
+  }
+
+  #SECTION187 > .ladi-section-background {
+    background-color: rgb(20, 20, 20);
+  }
+
+  #SECTION212 {
+    height: 487.5px;
+  }
+
+  #SECTION212 > .ladi-section-background {
+    background-color: rgb(18, 18, 18);
+  }
+
+  #SECTION233 {
+    height: 834px;
+  }
+
+  #SECTION233 > .ladi-section-background {
+    background-color: rgb(20, 20, 20);
+  }
+
+  #SECTION262 {
+    height: 512px;
+  }
+
+  #SECTION262 > .ladi-section-background {
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url("../img/DJ.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+
+  #SECTION271 {
+    height: 531px;
+  }
+
+  #SECTION271 > .ladi-section-background {
+    background-color: rgb(35, 40, 69);
+  }
+
+  #PARAGRAPH3 {
+    width: 524px;
+    top: 60px;
+    left: 0px;
+  }
+
+  #PARAGRAPH3 > .ladi-paragraph {
+    font-family: "Montserrat", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #PARAGRAPH4 {
+    width: 524px;
+    top: 353px;
+    left: 1px;
+  }
+
+  #PARAGRAPH4 > .ladi-paragraph {
+    font-family: "Montserrat", sans-serif;
+    color: rgb(252, 9, 88);
+    font-size: 58px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1;
+  }
+
+  #PARAGRAPH5 {
+    width: 771px;
+    top: 440px;
+    left: 0px;
+  }
+
+  #PARAGRAPH5 > .ladi-paragraph {
+    font-family: "Montserrat", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 70px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1;
+  }
+
+  #LINE305 {
+    width: 961px;
+    top: 43px;
+    left: 0px;
+  }
+
+  #LINE305 > .ladi-line > .ladi-line-container {
+    border-top: 1px solid rgb(252, 9, 88);
+    border-right: 1px solid rgb(252, 9, 88);
+    border-bottom: 1px solid rgb(252, 9, 88);
+    border-left: 0px !important;
+  }
+
+  #LINE305 > .ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+  }
+
+  #BUTTON_TEXT306 {
+    width: 169px;
+    top: 8px;
+    left: 0px;
+  }
+
+  #BUTTON_TEXT306 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 0.785714;
+  }
+
+  #BUTTON306 {
+    width: 169px;
+    height: 27px;
+    top: 11px;
+    left: 799px;
+  }
+
+  #BUTTON306 > .ladi-button {
+    border-radius: 5px;
+  }
+
+  #BOX307 {
+    width: 429px;
+    height: 51px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX307 > .ladi-box {
+    background-color: rgb(252, 9, 88);
+    border-radius: 0px;
+  }
+
+  #HEADLINE308 {
+    width: 404px;
+    top: 14px;
+    left: 13px;
+  }
+
+  #HEADLINE308 > .ladi-headline {
+    font-family: "Roboto Slab", serif;
+    color: rgb(255, 255, 255);
+    font-size: 21px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: left;
+    letter-spacing: 2px;
+    line-height: 1.2;
+  }
+
+  #BUTTON_TEXT309 {
+    width: 197px;
+    top: 15.2px;
+    left: 1.5px;
+  }
+
+  #BUTTON_TEXT309 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.4;
+  }
+
+  #BUTTON309 {
+    width: 203px;
+    height: 51px;
+    top: 539px;
+    left: 429px;
+  }
+
+  #BUTTON309 > .ladi-button {
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-width: 3px;
+    border-radius: 0px;
+  }
+
+  #BUTTON3090 {
+    width: 203px;
+    height: 51px;
+    top: 539px;
+    left: 632px;
+  }
+
+  #BUTTON3090 > .ladi-button {
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-width: 3px;
+    border-radius: 0px;
+  }
+
+  #IMAGE322 {
+    width: 117.813px;
+    height: 22px;
+    top: 14px;
+    left: 0px;
+  }
+
+  #IMAGE322 > .ladi-image > .ladi-image-background {
+    width: 117.813px;
+    height: 22px;
+    top: 0px;
+    left: 0px;
+    background-image: url("https://w.ladicdn.com/uploads/images/56eb906c-01da-4cf3-b724-283d445dce8b.png");
+  }
+
+  #IMAGE7 {
+    width: 496px;
+    height: 385.406px;
+    top: 0px;
+    left: 464px;
+  }
+
+  #IMAGE7 > .ladi-image > .ladi-image-background {
+    width: 496px;
+    height: 385.406px;
+    top: 0px;
+    left: 0px;
+    background-image: url("../img/Dimitri_Vegas_&_Like_Mike.jpg");
+  }
+
+  #BOX8 {
+    width: 464px;
+    height: 385.406px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX8 > .ladi-box {
+    background-color: rgb(31, 31, 31);
+  }
+
+  #HEADLINE9 {
+    width: 385px;
+    top: 64.3641px;
+    left: 42.8696px;
+  }
+
+  #HEADLINE9 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #HEADLINE10 {
+    width: 385px;
+    top: 100.642px;
+    left: 42.8696px;
+  }
+
+  #HEADLINE10 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 45px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1;
+  }
+
+  #SHAPE11 {
+    width: 27.7391px;
+    height: 25.7458px;
+    top: 242.134px;
+    left: 35.8696px;
+  }
+
+  #SHAPE11 svg:last-child {
+    fill: rgba(255,255,255,1);
+  }
+
+  #SHAPE13 {
+    width: 27.7391px;
+    height: 25.7458px;
+    top: 242.134px;
+    left: 63.6087px;
+  }
+
+  #SHAPE13 svg:last-child {
+    fill: rgba(255,255,255,1);
+  }
+
+  #SHAPE14 {
+    width: 27.7391px;
+    height: 25.7458px;
+    top: 242.134px;
+    left: 91.3478px;
+  }
+
+  #SHAPE14 svg:last-child {
+    fill: rgba(255,255,255,1);
+  }
+
+  #PARAGRAPH15 {
+    width: 376px;
+    top: 299.861px;
+    left: 35.8696px;
+  }
+
+  #PARAGRAPH15 > .ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 26px;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #LINE16 {
+    width: 368px;
+    top: 190.642px;
+    left: 35.8696px;
+  }
+
+  #LINE16 > .ladi-line > .ladi-line-container {
+    border-top: 1px solid rgb(255, 255, 255);
+    border-right: 1px solid rgb(255, 255, 255);
+    border-bottom: 1px solid rgb(255, 255, 255);
+    border-left: 0px !important;
+  }
+
+  #LINE16 > .ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+  }
+
+  #HEADLINE18 {
+    width: 358px;
+    top: 92px;
+    left: 287px;
+  }
+
+  #HEADLINE18 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1;
+  }
+
+  #LINE19 {
+    width: 50px;
+    top: 138px;
+    left: 436px;
+  }
+
+  #LINE19 > .ladi-line > .ladi-line-container {
+    border-top: 2px solid rgb(252, 9, 88);
+    border-right: 2px solid rgb(252, 9, 88);
+    border-bottom: 2px solid rgb(252, 9, 88);
+    border-left: 0px !important;
+  }
+
+  #LINE19 > .ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+  }
+
+  #HEADLINE20 {
+    width: 358px;
+    top: 158px;
+    left: 281px;
+  }
+
+  #HEADLINE20 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #BOX21 {
+    width: 470px;
+    height: 308px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX21 > .ladi-box > .ladi-overlay {
+    background-color: rgba(0, 0, 0, 0.09);
+  }
+
+  #BOX21 > .ladi-box {
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url("../img/KSHMR.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+
+  #HEADLINE25 {
+    width: 404px;
+    top: 264px;
+    left: 35px;
+  }
+
+  #HEADLINE25 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #HEADLINE24 {
+    width: 404px;
+    top: 231px;
+    left: 36px;
+  }
+
+  #HEADLINE24 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #BOX26 {
+    width: 470px;
+    height: 308px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX26 > .ladi-box > .ladi-overlay {
+    background-color: rgba(0, 0, 0, 0.09);
+  }
+
+  #BOX26 > .ladi-box {
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url("../img/Skrillex.jpeg");
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+
+  #HEADLINE27 {
+    width: 404px;
+    top: 264px;
+    left: 35px;
+  }
+
+  #HEADLINE27 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #HEADLINE28 {
+    width: 404px;
+    top: 231px;
+    left: 36px;
+  }
+
+  #HEADLINE28 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #BOX29 {
+    width: 232px;
+    height: 304px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX29 > .ladi-box {
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url("../img/DonDiablo.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+
+  #HEADLINE35 {
+    width: 200px;
+    top: 235px;
+    left: 17px;
+  }
+
+  #HEADLINE35 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 1, 1);
+    font-size: 21px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #BOX39 {
+    width: 232px;
+    height: 304px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX39 > .ladi-box {
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url("../img/charlotte-de-witte.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+
+  #HEADLINE41 {
+    width: 200px;
+    top: 235px;
+    left: 17px;
+  }
+
+  #HEADLINE41 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(250, 6, 6);
+    font-size: 21px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #BOX42 {
+    width: 232px;
+    height: 304px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX42 > .ladi-box {
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url("../img/DJSoda.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+
+  #HEADLINE44 {
+    width: 200px;
+    top: 235px;
+    left: 17px;
+  }
+
+  #HEADLINE44 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 1, 1);
+    font-size: 21px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #GROUP143 {
+    width: 322px;
+    height: 140px;
+    top: 231px;
+    left: 121px;
+  }
+
+  #BOX101 {
+    width: 192px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX101 > .ladi-box {
+    background-color: rgb(54, 54, 54);
+    border-radius: 0px;
+  }
+
+  #HEADLINE139 {
+    width: 156px;
+    top: 21px;
+    left: 18px;
+  }
+
+  #HEADLINE139 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(252, 9, 88);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #HEADLINE140 {
+    width: 156px;
+    top: 43px;
+    left: 18px;
+  }
+
+  #HEADLINE140 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #SHAPE141 {
+    width: 20px;
+    height: 20px;
+    top: 100px;
+    left: 13px;
+  }
+
+  #SHAPE141 svg:last-child {
+    fill: rgba(255,255,255,0.62);
+  }
+
+  #HEADLINE142 {
+    width: 137px;
+    top: 101px;
+    left: 33px;
+  }
+
+  #HEADLINE142 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgba(255, 255, 255, 0.59);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #IMAGE138 {
+    width: 130px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #IMAGE138 > .ladi-image > .ladi-image-background {
+    width: 130px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+    background-image: url("../img/DJSoda.jpg");
+  }
+
+  #GROUP144 {
+    width: 322px;
+    height: 140px;
+    top: 363px;
+    left: 531px;
+  }
+
+  #BOX145 {
+    width: 192px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX145 > .ladi-box {
+    background-color: rgb(54, 54, 54);
+    border-radius: 0px;
+  }
+
+  #HEADLINE146 {
+    width: 156px;
+    top: 21px;
+    left: 18px;
+  }
+
+  #HEADLINE146 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(252, 9, 88);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #HEADLINE147 {
+    width: 156px;
+    top: 43px;
+    left: 18px;
+  }
+
+  #HEADLINE147 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #SHAPE148 {
+    width: 20px;
+    height: 20px;
+    top: 100px;
+    left: 13px;
+  }
+
+  #SHAPE148 svg:last-child {
+    fill: rgba(255,255,255,0.62);
+  }
+
+  #HEADLINE149 {
+    width: 137px;
+    top: 101px;
+    left: 33px;
+  }
+
+  #HEADLINE149 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgba(255, 255, 255, 0.59);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #IMAGE150 {
+    width: 130px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #IMAGE150 > .ladi-image > .ladi-image-background {
+    width: 130px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+    background-image: url("../img/DonDiablo.jpg");
+  }
+
+  #GROUP151 {
+    width: 322px;
+    height: 140px;
+    top: 503px;
+    left: 124px;
+  }
+
+  #BOX152 {
+    width: 192px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX152 > .ladi-box {
+    background-color: rgb(54, 54, 54);
+    border-radius: 0px;
+  }
+
+  #HEADLINE153 {
+    width: 156px;
+    top: 21px;
+    left: 18px;
+  }
+
+  #HEADLINE153 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(252, 9, 88);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #HEADLINE154 {
+    width: 156px;
+    top: 43px;
+    left: 18px;
+  }
+
+  #HEADLINE154 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #SHAPE155 {
+    width: 20px;
+    height: 20px;
+    top: 100px;
+    left: 13px;
+  }
+
+  #SHAPE155 svg:last-child {
+    fill: rgba(255,255,255,0.62);
+  }
+
+  #HEADLINE156 {
+    width: 137px;
+    top: 101px;
+    left: 33px;
+  }
+
+  #HEADLINE156 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgba(255, 255, 255, 0.59);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #IMAGE157 {
+    width: 130px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #IMAGE157 > .ladi-image > .ladi-image-background {
+    width: 130px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+    background-image: url("../img/KSHMR.jpg");
+  }
+
+  #GROUP158 {
+    width: 322px;
+    height: 140px;
+    top: 644px;
+    left: 531px;
+  }
+
+  #IMAGE164 {
+    width: 130px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #IMAGE164 > .ladi-image > .ladi-image-background {
+    width: 130px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+    background-image: url("../img/Skrillex.jpeg");
+  }
+
+  #BOX159 {
+    width: 192px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX159 > .ladi-box {
+    background-color: rgb(54, 54, 54);
+    border-radius: 0px;
+  }
+
+  #HEADLINE160 {
+    width: 156px;
+    top: 21px;
+    left: 18px;
+  }
+
+  #HEADLINE160 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(252, 9, 88);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #HEADLINE161 {
+    width: 156px;
+    top: 43px;
+    left: 18px;
+  }
+
+  #HEADLINE161 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #SHAPE162 {
+    width: 20px;
+    height: 20px;
+    top: 100px;
+    left: 13px;
+  }
+
+  #SHAPE162 svg:last-child {
+    fill: rgba(255,255,255,0.62);
+  }
+
+  #HEADLINE163 {
+    width: 137px;
+    top: 101px;
+    left: 33px;
+  }
+
+  #HEADLINE163 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgba(255, 255, 255, 0.59);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #GROUP170 {
+    width: 322px;
+    height: 140px;
+    top: 794px;
+    left: 117px;
+  }
+
+  #IMAGE171 {
+    width: 130px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #IMAGE171 > .ladi-image > .ladi-image-background {
+    width: 215.738px;
+    height: 140px;
+    top: 0px;
+    left: -42.8689px;
+    background-image: url("../img/DJSnake.jpg");
+  }
+
+  #BOX172 {
+    width: 192px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX172 > .ladi-box {
+    background-color: rgb(54, 54, 54);
+    border-radius: 0px;
+  }
+
+  #HEADLINE173 {
+    width: 156px;
+    top: 21px;
+    left: 18px;
+  }
+
+  #HEADLINE173 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(252, 9, 88);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #HEADLINE174 {
+    width: 156px;
+    top: 43px;
+    left: 18px;
+  }
+
+  #HEADLINE174 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #SHAPE175 {
+    width: 20px;
+    height: 20px;
+    top: 100px;
+    left: 13px;
+  }
+
+  #SHAPE175 svg:last-child {
+    fill: rgba(255,255,255,0.62);
+  }
+
+  #HEADLINE176 {
+    width: 137px;
+    top: 101px;
+    left: 33px;
+  }
+
+  #HEADLINE176 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgba(255, 255, 255, 0.59);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #GROUP177 {
+    width: 322px;
+    height: 140px;
+    top: 934px;
+    left: 529px;
+  }
+
+  #IMAGE178 {
+    width: 130px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #IMAGE178 > .ladi-image > .ladi-image-background {
+    width: 215.738px;
+    height: 140px;
+    top: 0px;
+    left: -42.8689px;
+    background-image: url("../img/Dimitri_Vegas_&_Like_Mike.jpg");
+  }
+
+  #BOX179 {
+    width: 192px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX179 > .ladi-box {
+    background-color: rgb(54, 54, 54);
+    border-radius: 0px;
+  }
+
+  #HEADLINE180 {
+    width: 156px;
+    top: 21px;
+    left: 18px;
+  }
+
+  #HEADLINE180 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(252, 9, 88);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #HEADLINE181 {
+    width: 156px;
+    top: 43px;
+    left: 18px;
+  }
+
+  #HEADLINE181 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #SHAPE182 {
+    width: 20px;
+    height: 20px;
+    top: 100px;
+    left: 13px;
+  }
+
+  #SHAPE182 svg:last-child {
+    fill: rgba(255,255,255,0.62);
+  }
+
+  #HEADLINE183 {
+    width: 137px;
+    top: 101px;
+    left: 33px;
+  }
+
+  #HEADLINE183 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgba(255, 255, 255, 0.59);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #HEADLINE184 {
+    width: 358px;
+    top: 145px;
+    left: 318px;
+  }
+
+  #HEADLINE184 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #LINE185 {
+    width: 50px;
+    top: 125px;
+    left: 473px;
+  }
+
+  #LINE185 > .ladi-line > .ladi-line-container {
+    border-top: 2px solid rgb(252, 9, 88);
+    border-right: 2px solid rgb(252, 9, 88);
+    border-bottom: 2px solid rgb(252, 9, 88);
+    border-left: 0px !important;
+  }
+
+  #LINE185 > .ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+  }
+
+  #HEADLINE186 {
+    width: 358px;
+    top: 79px;
+    left: 324px;
+  }
+
+  #HEADLINE186 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1;
+  }
+
+  #GROUP325 {
+    width: 24px;
+    height: 127px;
+    top: 280px;
+    left: 474px;
+  }
+
+  #BOX123 {
+    width: 20px;
+    height: 20px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX123 > .ladi-box {
+    background-color: rgb(252, 9, 88);
+    border-radius: 220px;
+  }
+
+  #LINE323 {
+    height: 97px;
+    top: 30px;
+    left: 5px;
+  }
+
+  #LINE323 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 3px solid rgb(59, 59, 59);
+    border-bottom: 3px solid rgb(59, 59, 59);
+    border-left: 3px solid rgb(59, 59, 59);
+  }
+
+  #LINE323 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+
+  #GROUP326 {
+    width: 25px;
+    height: 127px;
+    top: 418px;
+    left: 473px;
+  }
+
+  #BOX126 {
+    width: 20px;
+    height: 20px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX126 > .ladi-box {
+    background-color: rgb(54, 54, 54);
+    border-radius: 220px;
+  }
+
+  #LINE324 {
+    height: 97px;
+    top: 30px;
+    left: 6px;
+  }
+
+  #LINE324 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 3px solid rgb(59, 59, 59);
+    border-bottom: 3px solid rgb(59, 59, 59);
+    border-left: 3px solid rgb(59, 59, 59);
+  }
+
+  #LINE324 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+
+  #GROUP327 {
+    width: 25px;
+    height: 127px;
+    top: 555px;
+    left: 473px;
+  }
+
+  #BOX328 {
+    width: 20px;
+    height: 20px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX328 > .ladi-box {
+    background-color: rgb(54, 54, 54);
+    border-radius: 220px;
+  }
+
+  #LINE329 {
+    height: 97px;
+    top: 30px;
+    left: 6px;
+  }
+
+  #LINE329 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 3px solid rgb(59, 59, 59);
+    border-bottom: 3px solid rgb(59, 59, 59);
+    border-left: 3px solid rgb(59, 59, 59);
+  }
+
+  #LINE329 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+
+  #GROUP330 {
+    width: 25px;
+    height: 127px;
+    top: 692px;
+    left: 473px;
+  }
+
+  #BOX331 {
+    width: 20px;
+    height: 20px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX331 > .ladi-box {
+    background-color: rgb(54, 54, 54);
+    border-radius: 220px;
+  }
+
+  #LINE332 {
+    height: 97px;
+    top: 30px;
+    left: 6px;
+  }
+
+  #LINE332 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 3px solid rgb(59, 59, 59);
+    border-bottom: 3px solid rgb(59, 59, 59);
+    border-left: 3px solid rgb(59, 59, 59);
+  }
+
+  #LINE332 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+
+  #GROUP333 {
+    width: 25px;
+    height: 127px;
+    top: 829px;
+    left: 473px;
+  }
+
+  #BOX334 {
+    width: 20px;
+    height: 20px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX334 > .ladi-box {
+    background-color: rgb(54, 54, 54);
+    border-radius: 220px;
+  }
+
+  #LINE335 {
+    height: 97px;
+    top: 30px;
+    left: 6px;
+  }
+
+  #LINE335 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 3px solid rgb(59, 59, 59);
+    border-bottom: 3px solid rgb(59, 59, 59);
+    border-left: 3px solid rgb(59, 59, 59);
+  }
+
+  #LINE335 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+
+  #GROUP215 {
+    width: 308px;
+    height: 140.5px;
+    top: 233.5px;
+    left: -2px;
+  }
+
+  #BOX216 {
+    width: 84px;
+    height: 79.5px;
+    top: 0px;
+    left: 3px;
+  }
+
+  #BOX216 > .ladi-box {
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url("../img/Guy1.jpg");
+    background-position: left top;
+    background-repeat: repeat;
+    border-radius: 220px;
+  }
+
+  #PARAGRAPH217 {
+    width: 211px;
+    top: 4px;
+    left: 97px;
+  }
+
+  #PARAGRAPH217 > .ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #PARAGRAPH218 {
+    width: 242px;
+    top: 102.5px;
+    left: 0px;
+  }
+
+  #PARAGRAPH218 > .ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: rgb(77, 77, 77);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #PARAGRAPH219 {
+    width: 152px;
+    top: 125.5px;
+    left: 0px;
+  }
+
+  #PARAGRAPH219 > .ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: rgb(150, 150, 150);
+    font-size: 13px;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #GROUP220 {
+    width: 308px;
+    height: 140.5px;
+    top: 234px;
+    left: 316px;
+  }
+
+  #BOX221 {
+    width: 84px;
+    height: 79.5px;
+    top: 0px;
+    left: 3px;
+  }
+
+  #BOX221 > .ladi-box {
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url("../img/Guy2.jpg");
+    background-position: center top;
+    background-repeat: repeat;
+    border-radius: 220px;
+  }
+
+  #PARAGRAPH222 {
+    width: 211px;
+    top: 4px;
+    left: 97px;
+  }
+
+  #PARAGRAPH222 > .ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #PARAGRAPH223 {
+    width: 242px;
+    top: 102.5px;
+    left: 0px;
+  }
+
+  #PARAGRAPH223 > .ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: rgb(77, 77, 77);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #PARAGRAPH224 {
+    width: 152px;
+    top: 125.5px;
+    left: 0px;
+  }
+
+  #PARAGRAPH224 > .ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: rgb(150, 150, 150);
+    font-size: 13px;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #GROUP225 {
+    width: 308px;
+    height: 140.5px;
+    top: 232px;
+    left: 652px;
+  }
+
+  #BOX226 {
+    width: 84px;
+    height: 79.5px;
+    top: 0px;
+    left: 3px;
+  }
+
+  #BOX226 > .ladi-box {
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url("../img/Guy3.jpg");
+    background-position: left top;
+    background-repeat: repeat;
+    border-radius: 220px;
+  }
+
+  #PARAGRAPH227 {
+    width: 211px;
+    top: 4px;
+    left: 97px;
+  }
+
+  #PARAGRAPH227 > .ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #PARAGRAPH228 {
+    width: 279px;
+    top: 102.5px;
+    left: 0px;
+  }
+
+  #PARAGRAPH228 > .ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: rgb(77, 77, 77);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #PARAGRAPH229 {
+    width: 152px;
+    top: 125.5px;
+    left: 0px;
+  }
+
+  #PARAGRAPH229 > .ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: rgb(150, 150, 150);
+    font-size: 13px;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #HEADLINE230 {
+    width: 358px;
+    top: 79px;
+    left: 296px;
+  }
+
+  #HEADLINE230 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1;
+  }
+
+  #LINE231 {
+    width: 50px;
+    top: 122px;
+    left: 440px;
+  }
+
+  #LINE231 > .ladi-line > .ladi-line-container {
+    border-top: 2px solid rgb(252, 9, 88);
+    border-right: 2px solid rgb(252, 9, 88);
+    border-bottom: 2px solid rgb(252, 9, 88);
+    border-left: 0px !important;
+  }
+
+  #LINE231 > .ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+  }
+
+  #BOX235 {
+    width: 463px;
+    height: 226px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX235 > .ladi-box {
+    background-color: rgb(170, 170, 170);
+  }
+
+  #BOX236 {
+    width: 30px;
+    height: 30px;
+    top: 16px;
+    left: 408px;
+  }
+
+  #BOX236 > .ladi-box {
+    background-color: rgb(255, 255, 255);
+    border-radius: 100px;
+  }
+
+  #HEADLINE237 {
+    width: 409px;
+    top: 24px;
+    left: 21px;
+  }
+
+  #HEADLINE237 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 59px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1;
+  }
+
+  #HEADLINE238 {
+    width: 142px;
+    top: 85px;
+    left: 21px;
+  }
+
+  #HEADLINE238 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #HEADLINE239 {
+    width: 417px;
+    top: 111px;
+    left: 21px;
+  }
+
+  #HEADLINE239 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #HEADLINE240 {
+    width: 194px;
+    top: 132px;
+    left: 21px;
+  }
+
+  #HEADLINE240 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #BOX241 {
+    width: 463px;
+    height: 226px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX241 > .ladi-box {
+    background-color: rgb(237, 1, 1);
+  }
+
+  #BOX242 {
+    width: 30px;
+    height: 30px;
+    top: 16px;
+    left: 408px;
+  }
+
+  #BOX242 > .ladi-box {
+    background-color: rgb(255, 255, 255);
+    border-radius: 100px;
+  }
+
+  #HEADLINE243 {
+    width: 379px;
+    top: 17px;
+    left: 29px;
+  }
+
+  #HEADLINE243 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 59px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1;
+  }
+
+  #HEADLINE244 {
+    width: 421px;
+    top: 97px;
+    left: 21px;
+  }
+
+  #HEADLINE244 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #HEADLINE245 {
+    width: 194px;
+    top: 76px;
+    left: 29px;
+  }
+
+  #HEADLINE245 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #HEADLINE246 {
+    width: 194px;
+    top: 139px;
+    left: 29px;
+  }
+
+  #HEADLINE246 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #BOX247 {
+    width: 463px;
+    height: 226px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX247 > .ladi-box {
+    background-color: rgb(227, 227, 227);
+  }
+
+  #BOX248 {
+    width: 30px;
+    height: 30px;
+    top: 16px;
+    left: 408px;
+  }
+
+  #BOX248 > .ladi-box {
+    background-color: rgb(255, 255, 255);
+    border-radius: 100px;
+  }
+
+  #HEADLINE249 {
+    width: 359px;
+    top: 16px;
+    left: 32px;
+  }
+
+  #HEADLINE249 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 59px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1;
+  }
+
+  #HEADLINE250 {
+    width: 142px;
+    top: 77px;
+    left: 32px;
+  }
+
+  #HEADLINE250 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #HEADLINE251 {
+    width: 421px;
+    top: 102.5px;
+    left: 17px;
+  }
+
+  #HEADLINE251 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #HEADLINE252 {
+    width: 194px;
+    top: 136px;
+    left: 32px;
+  }
+
+  #HEADLINE252 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(122, 122, 122);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #BOX253 {
+    width: 463px;
+    height: 226px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX253 > .ladi-box {
+    background-color: rgb(227, 227, 227);
+  }
+
+  #BOX254 {
+    width: 30px;
+    height: 30px;
+    top: 16px;
+    left: 408px;
+  }
+
+  #BOX254 > .ladi-box {
+    background-color: rgb(255, 255, 255);
+    border-radius: 100px;
+  }
+
+  #HEADLINE255 {
+    width: 283px;
+    top: 16px;
+    left: 21px;
+  }
+
+  #HEADLINE255 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 59px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1;
+  }
+
+  #HEADLINE256 {
+    width: 142px;
+    top: 85px;
+    left: 21px;
+  }
+
+  #HEADLINE256 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #HEADLINE257 {
+    width: 417px;
+    top: 104px;
+    left: 21px;
+  }
+
+  #HEADLINE257 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #HEADLINE258 {
+    width: 194px;
+    top: 131px;
+    left: 27px;
+  }
+
+  #HEADLINE258 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(122, 122, 122);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #HEADLINE259 {
+    width: 358px;
+    top: 103.5px;
+    left: 307px;
+  }
+
+  #HEADLINE259 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1;
+  }
+
+  #LINE260 {
+    width: 50px;
+    top: 147.5px;
+    left: 456px;
+  }
+
+  #LINE260 > .ladi-line > .ladi-line-container {
+    border-top: 2px solid rgb(252, 9, 88);
+    border-right: 2px solid rgb(252, 9, 88);
+    border-bottom: 2px solid rgb(252, 9, 88);
+    border-left: 0px !important;
+  }
+
+  #LINE260 > .ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+  }
+
+  #HEADLINE261 {
+    width: 358px;
+    top: 169.5px;
+    left: 301px;
+  }
+
+  #HEADLINE261 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #HEADLINE263 {
+    width: 489px;
+    top: 149.5px;
+    left: 235px;
+  }
+
+  #HEADLINE263 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgba(255, 255, 255, 0.95);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1;
+  }
+
+  #HEADLINE264 {
+    width: 489px;
+    top: 195.5px;
+    left: 235px;
+  }
+
+  #HEADLINE264 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgba(255, 255, 255, 0.95);
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1;
+  }
+
+  #FORM265 {
+    width: 524px;
+    height: 46px;
+    top: 303.5px;
+    left: 208px;
+  }
+
+  #FORM265 > .ladi-form {
+    font-size: 13px;
+    line-height: 1;
+  }
+
+  #FORM265 .ladi-form-item-container .ladi-form-item .ladi-form-control-select {
+    background-image: url("data:image/svg+xml;utf8, %3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20version%3D%221.1%22%20width%3D%2232%22%20height%3D%2224%22%20viewBox%3D%220%200%2032%2024%22%3E%3Cpolygon%20points%3D%220%2C0%2032%2C0%2016%2C24%22%20style%3D%22fill%3A%20%23000%22%3E%3C%2Fpolygon%3E%3C%2Fsvg%3E");
+  }
+
+  #FORM265 .ladi-form-item-container {
+    border-style: solid;
+    border-color: rgb(238, 238, 238);
+    border-width: 1px;
+    border-radius: 20px;
+  }
+
+  #FORM265 .ladi-form-item-background {
+    background-color: rgb(255, 255, 255);
+    border-top-left-radius: 19px;
+    border-top-right-radius: 19px;
+    border-bottom-left-radius: 19px;
+    border-bottom-right-radius: 19px;
+  }
+
+  #FORM_ITEM267 {
+    width: 397px;
+    height: 45px;
+    top: 1px;
+    left: 0px;
+  }
+
+  #BUTTON_TEXT270 {
+    width: 160px;
+    top: 9px;
+    left: 0px;
+  }
+
+  #BUTTON_TEXT270 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-align: center;
+    line-height: 2;
+  }
+
+  #BUTTON270 {
+    width: 160px;
+    height: 46px;
+    top: 0px;
+    left: 364px;
+  }
+
+  #BUTTON270 > .ladi-button > .ladi-button-background {
+    background-color: rgb(252, 9, 88);
+  }
+
+  #BUTTON270 > .ladi-button {
+    border-radius: 20px;
+  }
+
+  #LINE272 {
+    width: 962px;
+    top: 297px;
+    left: -1px;
+  }
+
+  #LINE272 > .ladi-line > .ladi-line-container {
+    border-top: 1px solid rgba(255, 255, 255, 0.18);
+    border-right: 1px solid rgba(255, 255, 255, 0.18);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.18);
+    border-left: 0px !important;
+  }
+
+  #LINE272 > .ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+  }
+
+  #LINE273 {
+    width: 962px;
+    top: 94px;
+    left: 0px;
+  }
+
+  #LINE273 > .ladi-line > .ladi-line-container {
+    border-top: 1px solid rgba(255, 255, 255, 0.18);
+    border-right: 1px solid rgba(255, 255, 255, 0.18);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.18);
+    border-left: 0px !important;
+  }
+
+  #LINE273 > .ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+  }
+
+  #HEADLINE274 {
+    width: 335px;
+    top: 36px;
+    left: 32px;
+  }
+
+  #HEADLINE274 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 49px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #HEADLINE275 {
+    width: 956px;
+    top: 129px;
+    left: 5px;
+  }
+
+  #HEADLINE275 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 31px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #PARAGRAPH281 {
+    width: 279px;
+    top: 337px;
+    left: 685px;
+  }
+
+  #PARAGRAPH281 > .ladi-paragraph {
+    font-family: "Open Sans", sans-serif;
+    color: rgba(255, 255, 255, 0.86);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: right;
+    line-height: 1.2;
+  }
+
+  #GROUP282 {
+    width: 114.75px;
+    height: 30px;
+    top: 364px;
+    left: 848.188px;
+  }
+
+  #SHAPE283 {
+    width: 31.875px;
+    height: 30px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #SHAPE283 svg:last-child {
+    fill: rgba(255,255,255,1);
+  }
+
+  #SHAPE284 {
+    width: 31.875px;
+    height: 30px;
+    top: 0px;
+    left: 42.0781px;
+  }
+
+  #SHAPE284 svg:last-child {
+    fill: rgba(255,255,255,1);
+  }
+
+  #SHAPE285 {
+    width: 31.875px;
+    height: 30px;
+    top: 0px;
+    left: 82.875px;
+  }
+
+  #SHAPE285 svg:last-child {
+    fill: rgba(255,255,255,1);
+  }
+
+  #SHAPE286 {
+    width: 24px;
+    height: 24px;
+    top: 64px;
+    left: 0px;
+  }
+
+  #SHAPE286 svg:last-child {
+    fill: rgba(252,9,88,1);
+  }
+
+  #PARAGRAPH287 {
+    width: 607px;
+    top: 335px;
+    left: 0px;
+  }
+
+  #PARAGRAPH287 > .ladi-paragraph {
+    font-family: "Open Sans", sans-serif;
+    color: rgba(255, 255, 255, 0.86);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #PARAGRAPH288 {
+    width: 453px;
+    top: 364px;
+    left: 0px;
+  }
+
+  #PARAGRAPH288 > .ladi-paragraph {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #GROUP336 {
+    width: 429px;
+    height: 51px;
+    top: 539px;
+    left: 0px;
+  }
+
+  #GROUP337 {
+    width: 464px;
+    height: 385.406px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #GROUP338 {
+    width: 470px;
+    height: 308px;
+    top: 243px;
+    left: 0px;
+  }
+
+  #GROUP339 {
+    width: 470px;
+    height: 308px;
+    top: 243px;
+    left: 491px;
+  }
+
+  #GROUP340 {
+    width: 232px;
+    height: 304px;
+    top: 581px;
+    left: 0px;
+  }
+
+  #GROUP342 {
+    width: 232px;
+    height: 304px;
+    top: 581px;
+    left: 728px;
+  }
+
+  #GROUP343 {
+    width: 232px;
+    height: 304px;
+    top: 581px;
+    left: 486px;
+  }
+
+  #GROUP344 {
+    width: 192px;
+    height: 140px;
+    top: 0px;
+    left: 130px;
+  }
+
+  #GROUP345 {
+    width: 192px;
+    height: 140px;
+    top: 0px;
+    left: 130px;
+  }
+
+  #GROUP346 {
+    width: 192px;
+    height: 140px;
+    top: 0px;
+    left: 130px;
+  }
+
+  #GROUP347 {
+    width: 192px;
+    height: 140px;
+    top: 0px;
+    left: 130px;
+  }
+
+  #GROUP348 {
+    width: 192px;
+    height: 140px;
+    top: 0px;
+    left: 130px;
+  }
+
+  #GROUP349 {
+    width: 192px;
+    height: 140px;
+    top: 0px;
+    left: 130px;
+  }
+
+  #GROUP350 {
+    width: 463px;
+    height: 226px;
+    top: 502px;
+    left: 0px;
+  }
+
+  #GROUP351 {
+    width: 463px;
+    height: 226px;
+    top: 502px;
+    left: 497px;
+  }
+
+  #GROUP352 {
+    width: 463px;
+    height: 226px;
+    top: 243px;
+    left: 497px;
+  }
+
+  #GROUP353 {
+    width: 463px;
+    height: 226px;
+    top: 243px;
+    left: 0px;
+  }
+
+  #GROUP341 {
+    width: 232px;
+    height: 304px;
+    top: 581px;
+    left: 243px;
+  }
+
+  #HEADLINE38 {
+    width: 200px;
+    top: 235px;
+    left: 17px;
+  }
+
+  #HEADLINE38 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 1, 1);
+    font-size: 21px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #BOX36 {
+    width: 232px;
+    height: 304px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX36 > .ladi-box {
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url("../img/DJSnake.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+}
+
+@media (max-width: 767px) {
+  #SECTION_POPUP {
+    height: 0px;
+  }
+
+  #SECTION2 {
+    height: 510px;
+  }
+
+  #SECTION2 > .ladi-section-background {
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url("..jpg/Tomorrowland2015.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+
+  #SECTION6 {
+    height: 680.641px;
+  }
+
+  #SECTION6 > .ladi-section-background {
+    background-color: rgb(18, 18, 18);
+  }
+
+  #SECTION17 {
+    height: 2035px;
+  }
+
+  #SECTION17 > .ladi-section-background {
+    background-color: rgb(23, 23, 23);
+  }
+
+  #SECTION91 {
+    height: 1727px;
+  }
+
+  #SECTION91 > .ladi-section-background {
+    background-color: rgb(18, 18, 18);
+  }
+
+  #SECTION187 {
+    height: 449.75px;
+  }
+
+  #SECTION187 > .ladi-section-background {
+    background-color: rgb(20, 20, 20);
+  }
+
+  #SECTION212 {
+    height: 565.5px;
+  }
+
+  #SECTION212 > .ladi-section-background {
+    background-color: rgb(18, 18, 18);
+  }
+
+  #SECTION233 {
+    height: 1255px;
+  }
+
+  #SECTION233 > .ladi-section-background {
+    background-color: rgb(20, 20, 20);
+  }
+
+  #SECTION262 {
+    height: 308px;
+  }
+
+  #SECTION262 > .ladi-section-background {
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url("..img/DJ.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+
+  #SECTION271 {
+    height: 437px;
+  }
+
+  #SECTION271 > .ladi-section-background {
+    background-color: rgb(35, 40, 69);
+  }
+
+  #PARAGRAPH3 {
+    width: 355px;
+    top: 124px;
+    left: 32.5px;
+  }
+
+  #PARAGRAPH3 > .ladi-paragraph {
+    font-family: "Montserrat", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #PARAGRAPH4 {
+    width: 355px;
+    top: 224px;
+    left: 32.5px;
+  }
+
+  #PARAGRAPH4 > .ladi-paragraph {
+    font-family: "Montserrat", sans-serif;
+    color: rgb(252, 9, 88);
+    font-size: 36px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1;
+  }
+
+  #PARAGRAPH5 {
+    width: 355px;
+    top: 276px;
+    left: 32.5px;
+  }
+
+  #PARAGRAPH5 > .ladi-paragraph {
+    font-family: "Montserrat", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1;
+  }
+
+  #LINE305 {
+    width: 355px;
+    top: 94px;
+    left: 32.5px;
+  }
+
+  #LINE305 > .ladi-line > .ladi-line-container {
+    border-top: 1px solid rgb(252, 9, 88);
+    border-right: 1px solid rgb(252, 9, 88);
+    border-bottom: 1px solid rgb(252, 9, 88);
+    border-left: 0px !important;
+  }
+
+  #LINE305 > .ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+  }
+
+  #BUTTON_TEXT306 {
+    width: 169px;
+    top: 8px;
+    left: 0px;
+  }
+
+  #BUTTON_TEXT306 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 0.785714;
+  }
+
+  #BUTTON306 {
+    width: 169px;
+    height: 27px;
+    top: 20px;
+    left: 125.5px;
+  }
+
+  #BUTTON306 > .ladi-button {
+    border-radius: 5px;
+  }
+
+  #BOX307 {
+    width: 355px;
+    height: 51px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX307 > .ladi-box {
+    background-color: rgb(252, 9, 88);
+    border-radius: 0px;
+  }
+
+  #HEADLINE308 {
+    width: 355px;
+    top: 20px;
+    left: 0px;
+  }
+
+  #HEADLINE308 > .ladi-headline {
+    font-family: "Roboto Slab", serif;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.4;
+  }
+
+  #BUTTON_TEXT309 {
+    width: 197px;
+    top: 14.2px;
+    left: 1.5px;
+  }
+
+  #BUTTON_TEXT309 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.4;
+  }
+
+  #BUTTON309 {
+    width: 203px;
+    height: 51px;
+    top: 439px;
+    left: 108.5px;
+  }
+
+  #BUTTON309 > .ladi-button {
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-width: 3px;
+    border-radius: 0px;
+  }
+
+  #IMAGE322 {
+    width: 117.813px;
+    height: 22px;
+    top: 57px;
+    left: 151.094px;
+  }
+
+  #IMAGE322 > .ladi-image > .ladi-image-background {
+    width: 117.813px;
+    height: 22px;
+    top: 0px;
+    left: 0px;
+    background-image: url("https://w.ladicdn.com/uploads/images/56eb906c-01da-4cf3-b724-283d445dce8b.png");
+  }
+
+  #IMAGE7 {
+    width: 355px;
+    height: 248.641px;
+    top: 20px;
+    left: 32.5px;
+  }
+
+  #IMAGE7 > .ladi-image > .ladi-image-background {
+    width: 355px;
+    height: 248.641px;
+    top: 0px;
+    left: 0px;
+    background-image: url("../img/Dimitri_Vegas_&_Like_Mike.jpg");
+  }
+
+  #BOX8 {
+    width: 368px;
+    height: 382px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX8 > .ladi-box {
+    background-color: rgb(31, 31, 31);
+  }
+
+  #HEADLINE9 {
+    width: 305px;
+    top: 55px;
+    left: 34px;
+  }
+
+  #HEADLINE9 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    text-align: left;
+    line-height: 1;
+  }
+
+  #HEADLINE10 {
+    width: 305px;
+    top: 86px;
+    left: 34px;
+  }
+
+  #HEADLINE10 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 36px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1;
+  }
+
+  #SHAPE11 {
+    width: 22px;
+    height: 22px;
+    top: 165px;
+    left: 34px;
+  }
+
+  #SHAPE11 svg:last-child {
+    fill: rgba(255,255,255,1);
+  }
+
+  #SHAPE13 {
+    width: 22px;
+    height: 22px;
+    top: 165px;
+    left: 62.5px;
+  }
+
+  #SHAPE13 svg:last-child {
+    fill: rgba(255,255,255,1);
+  }
+
+  #SHAPE14 {
+    width: 22px;
+    height: 22px;
+    top: 165px;
+    left: 91px;
+  }
+
+  #SHAPE14 svg:last-child {
+    fill: rgba(255,255,255,1);
+  }
+
+  #PARAGRAPH15 {
+    width: 298px;
+    top: 217px;
+    left: 34px;
+  }
+
+  #PARAGRAPH15 > .ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #LINE16 {
+    width: 79px;
+    top: 308px;
+    left: 34px;
+  }
+
+  #LINE16 > .ladi-line > .ladi-line-container {
+    border-top: 1px solid rgb(255, 255, 255);
+    border-right: 1px solid rgb(255, 255, 255);
+    border-bottom: 1px solid rgb(255, 255, 255);
+    border-left: 0px !important;
+  }
+
+  #LINE16 > .ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+  }
+
+  #HEADLINE18 {
+    width: 358px;
+    top: 20px;
+    left: 31px;
+  }
+
+  #HEADLINE18 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1;
+  }
+
+  #LINE19 {
+    width: 50px;
+    top: 72px;
+    left: 185px;
+  }
+
+  #LINE19 > .ladi-line > .ladi-line-container {
+    border-top: 2px solid rgb(252, 9, 88);
+    border-right: 2px solid rgb(252, 9, 88);
+    border-bottom: 2px solid rgb(252, 9, 88);
+    border-left: 0px !important;
+  }
+
+  #LINE19 > .ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+  }
+
+  #HEADLINE20 {
+    width: 358px;
+    top: 101px;
+    left: 31px;
+  }
+
+  #HEADLINE20 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #BOX21 {
+    width: 355px;
+    height: 308px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX21 > .ladi-box > .ladi-overlay {
+    background-color: rgba(0, 0, 0, 0.09);
+  }
+
+  #BOX21 > .ladi-box {
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url("../img/KSHMR.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+
+  #HEADLINE25 {
+    width: 355px;
+    top: 60px;
+    left: 0px;
+  }
+
+  #HEADLINE25 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #HEADLINE24 {
+    width: 355px;
+    top: 20px;
+    left: 0px;
+  }
+
+  #HEADLINE24 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #BOX26 {
+    width: 355px;
+    height: 308px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX26 > .ladi-box > .ladi-overlay {
+    background-color: rgba(0, 0, 0, 0.09);
+  }
+
+  #BOX26 > .ladi-box {
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url("../img/Skrillex.jpeg");
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+
+  #HEADLINE27 {
+    width: 355px;
+    top: 60px;
+    left: 0px;
+  }
+
+  #HEADLINE27 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #HEADLINE28 {
+    width: 355px;
+    top: 20px;
+    left: 0px;
+  }
+
+  #HEADLINE28 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #BOX29 {
+    width: 349px;
+    height: 304px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX29 > .ladi-box {
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url("../img/DonDiablo.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+
+  #HEADLINE35 {
+    width: 200px;
+    top: 235px;
+    left: 17px;
+  }
+
+  #HEADLINE35 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 1, 1);
+    font-size: 21px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #BOX39 {
+    width: 345px;
+    height: 304px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX39 > .ladi-box {
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url("../img/charlotte-de-witte.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+
+  #HEADLINE41 {
+    width: 200px;
+    top: 235px;
+    left: 17px;
+  }
+
+  #HEADLINE41 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(250, 6, 6);
+    font-size: 21px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #BOX42 {
+    width: 341px;
+    height: 304px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX42 > .ladi-box {
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url("../img/DJSoda.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+
+  #HEADLINE44 {
+    width: 200px;
+    top: 235px;
+    left: 17px;
+  }
+
+  #HEADLINE44 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 1, 1);
+    font-size: 21px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #GROUP143 {
+    width: 322px;
+    height: 140px;
+    top: 132px;
+    left: 50px;
+  }
+
+  #BOX101 {
+    width: 192px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX101 > .ladi-box {
+    background-color: rgb(54, 54, 54);
+    border-radius: 0px;
+  }
+
+  #HEADLINE139 {
+    width: 156px;
+    top: 21px;
+    left: 18px;
+  }
+
+  #HEADLINE139 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(252, 9, 88);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #HEADLINE140 {
+    width: 156px;
+    top: 43px;
+    left: 18px;
+  }
+
+  #HEADLINE140 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #SHAPE141 {
+    width: 20px;
+    height: 20px;
+    top: 100px;
+    left: 13px;
+  }
+
+  #SHAPE141 svg:last-child {
+    fill: rgba(255,255,255,0.62);
+  }
+
+  #HEADLINE142 {
+    width: 137px;
+    top: 101px;
+    left: 33px;
+  }
+
+  #HEADLINE142 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgba(255, 255, 255, 0.59);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #IMAGE138 {
+    width: 130px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #IMAGE138 > .ladi-image > .ladi-image-background {
+    width: 130px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+    background-image: url("../img/DJSoda.ipg");
+  }
+
+  #GROUP144 {
+    width: 322px;
+    height: 140px;
+    top: 419px;
+    left: 50px;
+  }
+
+  #BOX145 {
+    width: 192px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX145 > .ladi-box {
+    background-color: rgb(54, 54, 54);
+    border-radius: 0px;
+  }
+
+  #HEADLINE146 {
+    width: 156px;
+    top: 21px;
+    left: 18px;
+  }
+
+  #HEADLINE146 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(252, 9, 88);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #HEADLINE147 {
+    width: 156px;
+    top: 43px;
+    left: 18px;
+  }
+
+  #HEADLINE147 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #SHAPE148 {
+    width: 20px;
+    height: 20px;
+    top: 100px;
+    left: 13px;
+  }
+
+  #SHAPE148 svg:last-child {
+    fill: rgba(255,255,255,0.62);
+  }
+
+  #HEADLINE149 {
+    width: 137px;
+    top: 101px;
+    left: 33px;
+  }
+
+  #HEADLINE149 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgba(255, 255, 255, 0.59);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #IMAGE150 {
+    width: 130px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #IMAGE150 > .ladi-image > .ladi-image-background {
+    width: 130px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+    background-image: url("../img/DonDiablo.jpg");
+  }
+
+  #GROUP151 {
+    width: 322px;
+    height: 140px;
+    top: 706px;
+    left: 50px;
+  }
+
+  #BOX152 {
+    width: 192px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX152 > .ladi-box {
+    background-color: rgb(54, 54, 54);
+    border-radius: 0px;
+  }
+
+  #HEADLINE153 {
+    width: 156px;
+    top: 21px;
+    left: 18px;
+  }
+
+  #HEADLINE153 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(252, 9, 88);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #HEADLINE154 {
+    width: 156px;
+    top: 43px;
+    left: 18px;
+  }
+
+  #HEADLINE154 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #SHAPE155 {
+    width: 20px;
+    height: 20px;
+    top: 100px;
+    left: 13px;
+  }
+
+  #SHAPE155 svg:last-child {
+    fill: rgba(255,255,255,0.62);
+  }
+
+  #HEADLINE156 {
+    width: 137px;
+    top: 101px;
+    left: 33px;
+  }
+
+  #HEADLINE156 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgba(255, 255, 255, 0.59);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #IMAGE157 {
+    width: 130px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #IMAGE157 > .ladi-image > .ladi-image-background {
+    width: 130px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+    background-image: url("../img/KSHMR.jpg");
+  }
+
+  #GROUP158 {
+    width: 322px;
+    height: 140px;
+    top: 993px;
+    left: 50px;
+  }
+
+  #IMAGE164 {
+    width: 130px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #IMAGE164 > .ladi-image > .ladi-image-background {
+    width: 130px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+    background-image: url("../img/Skrillex.jpg");
+  }
+
+  #BOX159 {
+    width: 192px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX159 > .ladi-box {
+    background-color: rgb(54, 54, 54);
+    border-radius: 0px;
+  }
+
+  #HEADLINE160 {
+    width: 156px;
+    top: 21px;
+    left: 18px;
+  }
+
+  #HEADLINE160 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(252, 9, 88);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #HEADLINE161 {
+    width: 156px;
+    top: 43px;
+    left: 18px;
+  }
+
+  #HEADLINE161 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #SHAPE162 {
+    width: 20px;
+    height: 20px;
+    top: 100px;
+    left: 13px;
+  }
+
+  #SHAPE162 svg:last-child {
+    fill: rgba(255,255,255,0.62);
+  }
+
+  #HEADLINE163 {
+    width: 137px;
+    top: 101px;
+    left: 33px;
+  }
+
+  #HEADLINE163 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgba(255, 255, 255, 0.59);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #GROUP170 {
+    width: 322px;
+    height: 140px;
+    top: 1280px;
+    left: 50px;
+  }
+
+  #IMAGE171 {
+    width: 130px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #IMAGE171 > .ladi-image > .ladi-image-background {
+    width: 215.738px;
+    height: 140px;
+    top: 0px;
+    left: -42.8689px;
+    background-image: url("../img/DJSnake.jpg");
+  }
+
+  #BOX172 {
+    width: 192px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX172 > .ladi-box {
+    background-color: rgb(54, 54, 54);
+    border-radius: 0px;
+  }
+
+  #HEADLINE173 {
+    width: 156px;
+    top: 21px;
+    left: 18px;
+  }
+
+  #HEADLINE173 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(252, 9, 88);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #HEADLINE174 {
+    width: 156px;
+    top: 43px;
+    left: 18px;
+  }
+
+  #HEADLINE174 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #SHAPE175 {
+    width: 20px;
+    height: 20px;
+    top: 100px;
+    left: 13px;
+  }
+
+  #SHAPE175 svg:last-child {
+    fill: rgba(255,255,255,0.62);
+  }
+
+  #HEADLINE176 {
+    width: 137px;
+    top: 101px;
+    left: 33px;
+  }
+
+  #HEADLINE176 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgba(255, 255, 255, 0.59);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #GROUP177 {
+    width: 322px;
+    height: 140px;
+    top: 1567px;
+    left: 50px;
+  }
+
+  #IMAGE178 {
+    width: 130px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #IMAGE178 > .ladi-image > .ladi-image-background {
+    width: 215.738px;
+    height: 140px;
+    top: 0px;
+    left: -42.8689px;
+    background-image: url("../img/Dimitri_Vegas_&_Like_Mike.jpg");
+  }
+
+  #BOX179 {
+    width: 192px;
+    height: 140px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX179 > .ladi-box {
+    background-color: rgb(54, 54, 54);
+    border-radius: 0px;
+  }
+
+  #HEADLINE180 {
+    width: 156px;
+    top: 21px;
+    left: 18px;
+  }
+
+  #HEADLINE180 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(252, 9, 88);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #HEADLINE181 {
+    width: 156px;
+    top: 43px;
+    left: 18px;
+  }
+
+  #HEADLINE181 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #SHAPE182 {
+    width: 20px;
+    height: 20px;
+    top: 100px;
+    left: 13px;
+  }
+
+  #SHAPE182 svg:last-child {
+    fill: rgba(255,255,255,0.62);
+  }
+
+  #HEADLINE183 {
+    width: 137px;
+    top: 101px;
+    left: 33px;
+  }
+
+  #HEADLINE183 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgba(255, 255, 255, 0.59);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #HEADLINE184 {
+    width: 358px;
+    top: 101px;
+    left: 31px;
+  }
+
+  #HEADLINE184 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #LINE185 {
+    width: 50px;
+    top: 72px;
+    left: 185px;
+  }
+
+  #LINE185 > .ladi-line > .ladi-line-container {
+    border-top: 2px solid rgb(252, 9, 88);
+    border-right: 2px solid rgb(252, 9, 88);
+    border-bottom: 2px solid rgb(252, 9, 88);
+    border-left: 0px !important;
+  }
+
+  #LINE185 > .ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+  }
+
+  #HEADLINE186 {
+    width: 358px;
+    top: 20px;
+    left: 31px;
+  }
+
+  #HEADLINE186 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1;
+  }
+
+  #GROUP325 {
+    width: 24px;
+    height: 127px;
+    top: 282px;
+    left: 199.5px;
+  }
+
+  #BOX123 {
+    width: 20px;
+    height: 20px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX123 > .ladi-box {
+    background-color: rgb(252, 9, 88);
+    border-radius: 220px;
+  }
+
+  #LINE323 {
+    height: 97px;
+    top: 30px;
+    left: 5px;
+  }
+
+  #LINE323 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 3px solid rgb(59, 59, 59);
+    border-bottom: 3px solid rgb(59, 59, 59);
+    border-left: 3px solid rgb(59, 59, 59);
+  }
+
+  #LINE323 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+
+  #GROUP326 {
+    width: 25px;
+    height: 127px;
+    top: 569px;
+    left: 198.5px;
+  }
+
+  #BOX126 {
+    width: 20px;
+    height: 20px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX126 > .ladi-box {
+    background-color: rgb(54, 54, 54);
+    border-radius: 220px;
+  }
+
+  #LINE324 {
+    height: 97px;
+    top: 30px;
+    left: 6px;
+  }
+
+  #LINE324 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 3px solid rgb(59, 59, 59);
+    border-bottom: 3px solid rgb(59, 59, 59);
+    border-left: 3px solid rgb(59, 59, 59);
+  }
+
+  #LINE324 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+
+  #GROUP327 {
+    width: 25px;
+    height: 127px;
+    top: 856px;
+    left: 198.5px;
+  }
+
+  #BOX328 {
+    width: 20px;
+    height: 20px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX328 > .ladi-box {
+    background-color: rgb(54, 54, 54);
+    border-radius: 220px;
+  }
+
+  #LINE329 {
+    height: 97px;
+    top: 30px;
+    left: 6px;
+  }
+
+  #LINE329 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 3px solid rgb(59, 59, 59);
+    border-bottom: 3px solid rgb(59, 59, 59);
+    border-left: 3px solid rgb(59, 59, 59);
+  }
+
+  #LINE329 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+
+  #GROUP330 {
+    width: 25px;
+    height: 127px;
+    top: 1143px;
+    left: 198.5px;
+  }
+
+  #BOX331 {
+    width: 20px;
+    height: 20px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX331 > .ladi-box {
+    background-color: rgb(54, 54, 54);
+    border-radius: 220px;
+  }
+
+  #LINE332 {
+    height: 97px;
+    top: 30px;
+    left: 6px;
+  }
+
+  #LINE332 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 3px solid rgb(59, 59, 59);
+    border-bottom: 3px solid rgb(59, 59, 59);
+    border-left: 3px solid rgb(59, 59, 59);
+  }
+
+  #LINE332 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+
+  #GROUP333 {
+    width: 25px;
+    height: 127px;
+    top: 1430px;
+    left: 198.5px;
+  }
+
+  #BOX334 {
+    width: 20px;
+    height: 20px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX334 > .ladi-box {
+    background-color: rgb(54, 54, 54);
+    border-radius: 220px;
+  }
+
+  #LINE335 {
+    height: 97px;
+    top: 30px;
+    left: 6px;
+  }
+
+  #LINE335 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 3px solid rgb(59, 59, 59);
+    border-bottom: 3px solid rgb(59, 59, 59);
+    border-left: 3px solid rgb(59, 59, 59);
+  }
+
+  #LINE335 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+
+  #GROUP215 {
+    width: 308px;
+    height: 140.5px;
+    top: 252.5px;
+    left: 57px;
+  }
+
+  #BOX216 {
+    width: 84px;
+    height: 79.5px;
+    top: 0px;
+    left: 3px;
+  }
+
+  #BOX216 > .ladi-box {
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url("../img/Guy1.jpg");
+    background-position: left top;
+    background-repeat: repeat;
+    border-radius: 220px;
+  }
+
+  #PARAGRAPH217 {
+    width: 211px;
+    top: 4px;
+    left: 97px;
+  }
+
+  #PARAGRAPH217 > .ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #PARAGRAPH218 {
+    width: 242px;
+    top: 102.5px;
+    left: 0px;
+  }
+
+  #PARAGRAPH218 > .ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: rgb(77, 77, 77);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #PARAGRAPH219 {
+    width: 152px;
+    top: 125.5px;
+    left: 0px;
+  }
+
+  #PARAGRAPH219 > .ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: rgb(150, 150, 150);
+    font-size: 13px;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #GROUP220 {
+    width: 308px;
+    height: 140.5px;
+    top: 404px;
+    left: 57px;
+  }
+
+  #BOX221 {
+    width: 84px;
+    height: 79.5px;
+    top: 0px;
+    left: 3px;
+  }
+
+  #BOX221 > .ladi-box {
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url("../img/Guy2.jpg");
+    background-position: center top;
+    background-repeat: repeat;
+    border-radius: 220px;
+  }
+
+  #PARAGRAPH222 {
+    width: 211px;
+    top: 4px;
+    left: 97px;
+  }
+
+  #PARAGRAPH222 > .ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #PARAGRAPH223 {
+    width: 242px;
+    top: 102.5px;
+    left: 0px;
+  }
+
+  #PARAGRAPH223 > .ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: rgb(77, 77, 77);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #PARAGRAPH224 {
+    width: 152px;
+    top: 125.5px;
+    left: 0px;
+  }
+
+  #PARAGRAPH224 > .ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: rgb(150, 150, 150);
+    font-size: 13px;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #GROUP225 {
+    width: 308px;
+    height: 140.5px;
+    top: 101px;
+    left: 57px;
+  }
+
+  #BOX226 {
+    width: 84px;
+    height: 79.5px;
+    top: 0px;
+    left: 3px;
+  }
+
+  #BOX226 > .ladi-box {
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url("../img/Guy3.jpg");
+    background-position: left top;
+    background-repeat: repeat;
+    border-radius: 220px;
+  }
+
+  #PARAGRAPH227 {
+    width: 211px;
+    top: 4px;
+    left: 97px;
+  }
+
+  #PARAGRAPH227 > .ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #PARAGRAPH228 {
+    width: 282px;
+    top: 102.5px;
+    left: 0px;
+  }
+
+  #PARAGRAPH228 > .ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: rgb(77, 77, 77);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #PARAGRAPH229 {
+    width: 152px;
+    top: 125.5px;
+    left: 0px;
+  }
+
+  #PARAGRAPH229 > .ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: rgb(150, 150, 150);
+    font-size: 13px;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #HEADLINE230 {
+    width: 358px;
+    top: 20px;
+    left: 31px;
+  }
+
+  #HEADLINE230 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1;
+  }
+
+  #LINE231 {
+    width: 50px;
+    top: 72px;
+    left: 185px;
+  }
+
+  #LINE231 > .ladi-line > .ladi-line-container {
+    border-top: 2px solid rgb(252, 9, 88);
+    border-right: 2px solid rgb(252, 9, 88);
+    border-bottom: 2px solid rgb(252, 9, 88);
+    border-left: 0px !important;
+  }
+
+  #LINE231 > .ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+  }
+
+  #BOX235 {
+    width: 355px;
+    height: 262px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX235 > .ladi-box {
+    background-color: rgb(170, 170, 170);
+  }
+
+  #BOX236 {
+    width: 30px;
+    height: 30px;
+    top: 20px;
+    left: 162.5px;
+  }
+
+  #BOX236 > .ladi-box {
+    background-color: rgb(255, 255, 255);
+    border-radius: 100px;
+  }
+
+  #HEADLINE237 {
+    width: 255px;
+    top: 50px;
+    left: 50px;
+  }
+
+  #HEADLINE237 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 59px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1;
+  }
+
+  #HEADLINE238 {
+    width: 142px;
+    top: 230px;
+    left: 106.5px;
+  }
+
+  #HEADLINE238 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #HEADLINE239 {
+    width: 194px;
+    top: 135px;
+    left: 80.5px;
+  }
+
+  #HEADLINE239 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #HEADLINE240 {
+    width: 194px;
+    top: 177px;
+    left: 80.5px;
+  }
+
+  #HEADLINE240 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #BOX241 {
+    width: 355px;
+    height: 287px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX241 > .ladi-box {
+    background-color: rgb(237, 1, 1);
+  }
+
+  #BOX242 {
+    width: 30px;
+    height: 24.9867px;
+    top: 16.6578px;
+    left: 162.5px;
+  }
+
+  #BOX242 > .ladi-box {
+    background-color: rgb(255, 255, 255);
+    border-radius: 100px;
+  }
+
+  #HEADLINE243 {
+    width: 338px;
+    top: 41.6446px;
+    left: 8.5px;
+  }
+
+  #HEADLINE243 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 59px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1;
+  }
+
+  #HEADLINE244 {
+    width: 317px;
+    top: 198.565px;
+    left: 19px;
+  }
+
+  #HEADLINE244 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #HEADLINE245 {
+    width: 194px;
+    top: 112.44px;
+    left: 80.5px;
+  }
+
+  #HEADLINE245 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #HEADLINE246 {
+    width: 194px;
+    top: 140.759px;
+    left: 80.5px;
+  }
+
+  #HEADLINE246 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #BOX247 {
+    width: 355px;
+    height: 262px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX247 > .ladi-box {
+    background-color: rgb(227, 227, 227);
+  }
+
+  #BOX248 {
+    width: 30px;
+    height: 30px;
+    top: 20px;
+    left: 162.5px;
+  }
+
+  #BOX248 > .ladi-box {
+    background-color: rgb(255, 255, 255);
+    border-radius: 100px;
+  }
+
+  #HEADLINE249 {
+    width: 148px;
+    top: 57px;
+    left: 44.5px;
+  }
+
+  #HEADLINE249 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 59px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1;
+  }
+
+  #HEADLINE250 {
+    width: 142px;
+    top: 230px;
+    left: 106.5px;
+  }
+
+  #HEADLINE250 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #HEADLINE251 {
+    width: 194px;
+    top: 135px;
+    left: 80.5px;
+  }
+
+  #HEADLINE251 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #HEADLINE252 {
+    width: 194px;
+    top: 169px;
+    left: 80.5px;
+  }
+
+  #HEADLINE252 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(122, 122, 122);
+    font-size: 14px;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #BOX253 {
+    width: 355px;
+    height: 262px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX253 > .ladi-box {
+    background-color: rgb(227, 227, 227);
+  }
+
+  #BOX254 {
+    width: 30px;
+    height: 30px;
+    top: 20px;
+    left: 162.5px;
+  }
+
+  #BOX254 > .ladi-box {
+    background-color: rgb(255, 255, 255);
+    border-radius: 100px;
+  }
+
+  #HEADLINE255 {
+    width: 263px;
+    top: 61px;
+    left: 44.5px;
+  }
+
+  #HEADLINE255 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 59px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1;
+  }
+
+  #HEADLINE256 {
+    width: 142px;
+    top: 230px;
+    left: 106.5px;
+  }
+
+  #HEADLINE256 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #HEADLINE257 {
+    width: 194px;
+    top: 127px;
+    left: 80.5px;
+  }
+
+  #HEADLINE257 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #HEADLINE258 {
+    width: 194px;
+    top: 169px;
+    left: 80.5px;
+  }
+
+  #HEADLINE258 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(122, 122, 122);
+    font-size: 14px;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #HEADLINE259 {
+    width: 358px;
+    top: 20px;
+    left: 31px;
+  }
+
+  #HEADLINE259 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1;
+  }
+
+  #LINE260 {
+    width: 50px;
+    top: 72px;
+    left: 185px;
+  }
+
+  #LINE260 > .ladi-line > .ladi-line-container {
+    border-top: 2px solid rgb(252, 9, 88);
+    border-right: 2px solid rgb(252, 9, 88);
+    border-bottom: 2px solid rgb(252, 9, 88);
+    border-left: 0px !important;
+  }
+
+  #LINE260 > .ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+  }
+
+  #HEADLINE261 {
+    width: 358px;
+    top: 101px;
+    left: 31px;
+  }
+
+  #HEADLINE261 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #HEADLINE263 {
+    width: 355px;
+    top: 20px;
+    left: 32.5px;
+  }
+
+  #HEADLINE263 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgba(255, 255, 255, 0.95);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1;
+  }
+
+  #HEADLINE264 {
+    width: 355px;
+    top: 102px;
+    left: 32.5px;
+  }
+
+  #HEADLINE264 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgba(255, 255, 255, 0.95);
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1;
+  }
+
+  #FORM265 {
+    width: 355px;
+    height: 115px;
+    top: 163px;
+    left: 32.5px;
+  }
+
+  #FORM265 > .ladi-form {
+    font-size: 13px;
+    line-height: 1;
+  }
+
+  #FORM265 .ladi-form-item-container .ladi-form-item .ladi-form-control-select {
+    background-image: url("data:image/svg+xml;utf8, %3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20version%3D%221.1%22%20width%3D%2232%22%20height%3D%2224%22%20viewBox%3D%220%200%2032%2024%22%3E%3Cpolygon%20points%3D%220%2C0%2032%2C0%2016%2C24%22%20style%3D%22fill%3A%20%23000%22%3E%3C%2Fpolygon%3E%3C%2Fsvg%3E");
+  }
+
+  #FORM265 .ladi-form-item-container {
+    border-style: solid;
+    border-color: rgb(238, 238, 238);
+    border-width: 1px;
+    border-radius: 20px;
+  }
+
+  #FORM265 .ladi-form-item-background {
+    background-color: rgb(255, 255, 255);
+    border-top-left-radius: 19px;
+    border-top-right-radius: 19px;
+    border-bottom-left-radius: 19px;
+    border-bottom-right-radius: 19px;
+  }
+
+  #FORM_ITEM267 {
+    width: 355px;
+    height: 45px;
+    top: 70px;
+    left: 0px;
+  }
+
+  #BUTTON_TEXT270 {
+    width: 160px;
+    top: 6px;
+    left: 0px;
+  }
+
+  #BUTTON_TEXT270 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-align: center;
+    line-height: 2;
+  }
+
+  #BUTTON270 {
+    width: 160px;
+    height: 40px;
+    top: 0px;
+    left: 97.5px;
+  }
+
+  #BUTTON270 > .ladi-button > .ladi-button-background {
+    background-color: rgb(252, 9, 88);
+  }
+
+  #BUTTON270 > .ladi-button {
+    border-radius: 20px;
+  }
+
+  #LINE272 {
+    width: 300px;
+    top: 197px;
+    left: 60px;
+  }
+
+  #LINE272 > .ladi-line > .ladi-line-container {
+    border-top: 1px solid rgba(255, 255, 255, 0.18);
+    border-right: 1px solid rgba(255, 255, 255, 0.18);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.18);
+    border-left: 0px !important;
+  }
+
+  #LINE272 > .ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+  }
+
+  #LINE273 {
+    width: 300px;
+    top: 91px;
+    left: 60px;
+  }
+
+  #LINE273 > .ladi-line > .ladi-line-container {
+    border-top: 1px solid rgba(255, 255, 255, 0.18);
+    border-right: 1px solid rgba(255, 255, 255, 0.18);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.18);
+    border-left: 0px !important;
+  }
+
+  #LINE273 > .ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+  }
+
+  #HEADLINE274 {
+    width: 335px;
+    top: 54px;
+    left: 42.5px;
+  }
+
+  #HEADLINE274 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #HEADLINE275 {
+    width: 296px;
+    top: 121px;
+    left: 62px;
+  }
+
+  #HEADLINE275 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #PARAGRAPH281 {
+    width: 279px;
+    top: 273px;
+    left: 70.5px;
+  }
+
+  #PARAGRAPH281 > .ladi-paragraph {
+    font-family: "Open Sans", sans-serif;
+    color: rgba(255, 255, 255, 0.86);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #GROUP282 {
+    width: 114.75px;
+    height: 30px;
+    top: 301px;
+    left: 152.625px;
+  }
+
+  #SHAPE283 {
+    width: 31.875px;
+    height: 30px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #SHAPE283 svg:last-child {
+    fill: rgba(255,255,255,1);
+  }
+
+  #SHAPE284 {
+    width: 31.875px;
+    height: 30px;
+    top: 0px;
+    left: 42.0781px;
+  }
+
+  #SHAPE284 svg:last-child {
+    fill: rgba(255,255,255,1);
+  }
+
+  #SHAPE285 {
+    width: 31.875px;
+    height: 30px;
+    top: 0px;
+    left: 82.875px;
+  }
+
+  #SHAPE285 svg:last-child {
+    fill: rgba(255,255,255,1);
+  }
+
+  #SHAPE286 {
+    width: 24px;
+    height: 24px;
+    top: 20px;
+    left: 198px;
+  }
+
+  #SHAPE286 svg:last-child {
+    fill: rgba(252,9,88,1);
+  }
+
+  #PARAGRAPH287 {
+    width: 355px;
+    top: 227px;
+    left: 32.5px;
+  }
+
+  #PARAGRAPH287 > .ladi-paragraph {
+    font-family: "Open Sans", sans-serif;
+    color: rgba(255, 255, 255, 0.86);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  #PARAGRAPH288 {
+    width: 355px;
+    top: 341px;
+    left: 32.5px;
+  }
+
+  #PARAGRAPH288 > .ladi-paragraph {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  #GROUP336 {
+    width: 355px;
+    height: 51px;
+    top: 378px;
+    left: 32.5px;
+  }
+
+  #GROUP337 {
+    width: 368px;
+    height: 382px;
+    top: 278.641px;
+    left: 26px;
+  }
+
+  #GROUP338 {
+    width: 355px;
+    height: 308px;
+    top: 133px;
+    left: 32.5px;
+  }
+
+  #GROUP339 {
+    width: 355px;
+    height: 308px;
+    top: 451px;
+    left: 32.5px;
+  }
+
+  #GROUP340 {
+    width: 349px;
+    height: 304px;
+    top: 769px;
+    left: 35.5px;
+  }
+
+  #GROUP342 {
+    width: 345px;
+    height: 304px;
+    top: 1397px;
+    left: 37.5px;
+  }
+
+  #GROUP343 {
+    width: 341px;
+    height: 304px;
+    top: 1711px;
+    left: 39.5px;
+  }
+
+  #GROUP344 {
+    width: 192px;
+    height: 140px;
+    top: 0px;
+    left: 130px;
+  }
+
+  #GROUP345 {
+    width: 192px;
+    height: 140px;
+    top: 0px;
+    left: 130px;
+  }
+
+  #GROUP346 {
+    width: 192px;
+    height: 140px;
+    top: 0px;
+    left: 130px;
+  }
+
+  #GROUP347 {
+    width: 192px;
+    height: 140px;
+    top: 0px;
+    left: 130px;
+  }
+
+  #GROUP348 {
+    width: 192px;
+    height: 140px;
+    top: 0px;
+    left: 130px;
+  }
+
+  #GROUP349 {
+    width: 192px;
+    height: 140px;
+    top: 0px;
+    left: 130px;
+  }
+
+  #GROUP350 {
+    width: 355px;
+    height: 262px;
+    top: 677px;
+    left: 32.5px;
+  }
+
+  #GROUP351 {
+    width: 355px;
+    height: 287px;
+    top: 949px;
+    left: 32.5px;
+  }
+
+  #GROUP352 {
+    width: 355px;
+    height: 262px;
+    top: 405px;
+    left: 32.5px;
+  }
+
+  #GROUP353 {
+    width: 355px;
+    height: 262px;
+    top: 133px;
+    left: 32.5px;
+  }
+
+  #GROUP341 {
+    width: 346px;
+    height: 304px;
+    top: 1083px;
+    left: 37px;
+  }
+
+  #HEADLINE38 {
+    width: 200px;
+    top: 235px;
+    left: 17px;
+  }
+
+  #HEADLINE38 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 1, 1);
+    font-size: 21px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+
+  #BOX36 {
+    width: 346px;
+    height: 304px;
+    top: 0px;
+    left: 0px;
+  }
+
+  #BOX36 > .ladi-box {
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url("../img/DJSnake.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+}
